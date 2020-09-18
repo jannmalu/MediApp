@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256392974696",
+    "firebase_url": "https://medi-app-2-203a2.firebaseio.com",
+    "project_id": "medi-app-2-203a2",
+    "storage_bucket": "medi-app-2-203a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256392974696:android:b56909c6e9f8f52ed8c6dd",
+        "android_client_info": {
+          "package_name": "com.mbetemalu.mediapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256392974696-nj4l95mu5pqe53sjsermbrea2cgfrn51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbetemalu.mediapp2",
+            "certificate_hash": "dfb766bdd68b9f976e796cb821d127fc2fd77dcd"
+          }
+        },
+        {
+          "client_id": "256392974696-uj7jhqtor5hhi2c60c9um17m9uasegus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6JpioYJRhF0MuH-jc2oRjZfCYxOV1gzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256392974696-uj7jhqtor5hhi2c60c9um17m9uasegus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

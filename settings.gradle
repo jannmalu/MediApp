@@ -1,0 +1,2 @@
+rootProject.name='Medi App 2'
+include ':app'
